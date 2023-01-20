@@ -1,10 +1,10 @@
 ### :computer: printf("Hello World!\n"); 👋
 
 ![screenshot](./thanks.png)
+![Tech](./tech.png)
 
-
-My name is Daniela González, I am a Computer Scientist and a frontend development apprentice. I like to learn new things and practice them!
-I have some development experience in C, C++, CUDA, JAVA, HTML and CSS, I have also worked on ebook design in Epub format. I am currently on the lookout for new opportunities. 
+My name is Daniela González, I am a Computer Scientist and a frontend development. I like to learn new things and practice them!
+I have some development experience in **C, C++, CUDA, JAVA, HTML and CSS**, I also worked on ebook design in Epub format. I am currently on the lookout for new opportunities. 
 
 ### Find me 😃
 - GitHub: [@danyhoshi](https://github.com/danyhoshi)
